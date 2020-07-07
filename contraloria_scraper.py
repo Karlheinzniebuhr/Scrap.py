@@ -27,7 +27,6 @@ for index, url in enumerate(URLS):
     # make POST request with session cookie
     post_response = session.post(url, data=payload)
 
-    filename = f"{url.split('/')[-1].replace('pdf','')}.pdf"
-    
+    filename = f"contraloria/{url.split('/')[-1].replace('-pdf','')}.pdf"
     with open(filename, 'wb') as outfile:
         outfile.write(post_response.content)
