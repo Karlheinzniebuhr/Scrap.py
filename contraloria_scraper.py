@@ -1,3 +1,5 @@
+# autores: @quanturtle, @karlpy
+
 import requests
 import lxml.html as lh
 

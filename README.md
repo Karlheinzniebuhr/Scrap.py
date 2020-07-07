@@ -1,15 +1,14 @@
 # Scrap.py
 
-Scrap.py es una colección de Scripts para descargar (scrapear) datos de páginas públicas del Paraguay. 
+Scrap.py es una colección de Scripts para descargar (scrapear) datos públicos del Paraguay. 
 
 ## Motivación
 
-  - Ayudar a conscientizar la importancia de resguardar datos sensibles
-  - Coleccionar Datos para analizarlos
+  - Coleccionar Datos para analizarlos  
 
 ---
 ## UPDATES
->  Actualmente todos los dominios scrapeables implementaron medidas de seguridad 😎
+>  Ya hay scraper para el portal de Declaraciones Juradas de Bienes y Rentas 😎  
 ---
 
 ### Uso
